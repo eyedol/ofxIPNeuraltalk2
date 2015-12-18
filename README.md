@@ -13,12 +13,15 @@ We also modified neuraltalk2's `eval.lua`[5] script and so it's possible to read
 
 # Dependencies
 1. Neuraltalk2 [2]
-2. Our modified version of `eval.lua`
+2. Our modified version of `eval.lua` [5]
 3. `sudo apt-get install libttspico0 libttspico-utils libttspico-data`
 4. Ubuntu
+5. `voice.sh`[6]
 
 [1]: http://openframeworks.cc/
 [2]: https://github.com/karpathy/neuraltalk2
 [3]: https://github.com/bakercp/ofxIpVideoGrabber
 [3]: https://vimeo.com/146492001
 [4]: https://github.com/karpathy/neuraltalk2/blob/master/eval.lua
+[5]: https://github.com/eyedol/ofxIPNeuraltalk2/blob/master/dependencies/eval.lua
+[6]: https://github.com/eyedol/ofxIPNeuraltalk2/blob/master/dependencies/voice.sh
