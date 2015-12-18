@@ -36,8 +36,8 @@
 #define NUM_COLS 1
 #define CAM_ADDRESS "https://<ipaddress:80>" // Replace this with the URL of your IP camera
 #define CAM_NAME "<Name of camera>" // Replace this with a fancy name
-#define CAM_PASSWORD "<PASSWORD TO YOUR PROTECTED CAMERA>"
-#define CAM_USERNAME "<USERNAME TO YOUR PROJECTED CAMERA>"
+#define CAM_PASSWORD "<PASSWORD TO YOUR PROTECTED CAMERA>" // Replace this with the password to your IP camera
+#define CAM_USERNAME "<USERNAME TO YOUR PROJECTED CAMERA>" // Replace this with the username to your IP camera
 //#else
 //    #define NUM_CAMERAS 9
 //    #define NUM_ROWS 3
