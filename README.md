@@ -2,11 +2,10 @@
 
 ### NeuralTalk Day walk with Voice
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l8PVcKT6PtQ" frameborder="0" allowfullscreen="allowfullscreen"></frame>
+[![NeuralTalk Day walk with Voice](http://img.youtube.com/vi/l8PVcKT6PtQ/0.jpg)](http://www.youtube.com/watch?v=l8PVcKT6PtQ)
 
 ### NeuralTalk Night Walk With Voice
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-696q1Sg48Q" frameborder="0" allowfullscreen="allowfullscreen"></frame>
+[![NeuralTalk Night Walk With Voice](http://img.youtube.com/vi/-696q1Sg48Q/0.jpg)](http://www.youtube.com/watch?v=-696q1Sg48Q)
 
 [`openFrameworks`][1], addon for IP Cameras using [Neuralktalk2][2] for automatic captioning. This is using the [`ofxIpVideoGrabber`][3] addon's example code. We've just modified it to read captions from neuraltalk2 and display it.
 
@@ -26,6 +25,10 @@ We also modified neuraltalk2's `eval.lua`[5] script and so it's possible to read
 3. `sudo apt-get install libttspico0 libttspico-utils libttspico-data`
 4. Ubuntu
 5. `voice.sh`[6]
+
+# Contributors
+
+[linuxkay](https://github.com/linuxkay)
 
 [1]: http://openframeworks.cc/
 [2]: https://github.com/karpathy/neuraltalk2
